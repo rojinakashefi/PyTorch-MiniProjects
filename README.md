@@ -20,4 +20,4 @@ Collection of all Guided Projects I have taken on Coursera.
 
 4. [Understanding Dice Loss for Crisp Boundary Detection](https://medium.com/ai-salon/understanding-dice-loss-for-crisp-boundary-detection-bb30c2e5f62b)
 
-5. [BCEWithLogesticLoss]([python - How is PyTorch's Class BCEWithLogitsLoss exactly implemented? - Stack Overflow](https://stackoverflow.com/questions/66906884/how-is-pytorchs-class-bcewithlogitsloss-exactly-implemented))
+5. [BCEWithLogesticLoss](https://stackoverflow.com/questions/66906884/how-is-pytorchs-class-bcewithlogitsloss-exactly-implemented)
