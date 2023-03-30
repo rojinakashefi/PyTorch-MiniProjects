@@ -7,7 +7,10 @@ Collection of all Guided Projects I have taken on Coursera.
 1. Deep Learning with PyTorch: Object Localization ([certificate](https://www.coursera.org/account/accomplishments/verify/DWQYRPVQC59T?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project) | [src_code]())
 
 2. Deep Learning with PyTorch: Image Segmentation ([certificate](https://coursera.org/share/728be630ed33576adb267f5c9456a4bc) | [src_code]())
+
 3. Deep Learning with PyTorch : Neural Style Transfer ([certificate](https://coursera.org/share/73c54bf61b4f4b530cf0a9e4a3247c0d) | [src_code]())
+
+4. Deep Learning with PyTorch : Siamese Network ([certificate](https://coursera.org/share/c4c06b8e89ceb51c17dc8087b7f9bd73) | [src_code]() )
 
 ### Useful links
 
@@ -24,3 +27,7 @@ Collection of all Guided Projects I have taken on Coursera.
 6. [Everything you need to know about VGG16](https://medium.com/@mygreatlearning/everything-you-need-to-know-about-vgg16-7315defb5918)
 
 7. [Gram matirx used in Neural style transfering](https://youtu.be/Elxnzxk-AUk)
+
+8. [A friendly introduction to Siamese Networks](https://towardsdatascience.com/a-friendly-introduction-to-siamese-networks-85ab17522942)
+   
+   
