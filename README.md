@@ -12,6 +12,8 @@ Collection of all Guided Projects I have taken on Coursera.
 
 4. Deep Learning with PyTorch : Siamese Network ([certificate](https://coursera.org/share/c4c06b8e89ceb51c17dc8087b7f9bd73) | [src_code]() )
 
+5. Deep Learning with PyTorch : GradCAM ([certificate]() | [src_code]() )
+
 ### Useful links
 
 1. [Understanding EfficientNet — The most powerful CNN architecture](https://medium.com/mlearning-ai/understanding-efficientnet-the-most-powerful-cnn-architecture-eaeb40386fad)
@@ -29,5 +31,9 @@ Collection of all Guided Projects I have taken on Coursera.
 7. [Gram matirx used in Neural style transfering](https://youtu.be/Elxnzxk-AUk)
 
 8. [A friendly introduction to Siamese Networks](https://towardsdatascience.com/a-friendly-introduction-to-siamese-networks-85ab17522942)
-   
-   
+
+9. [Grad-CAM | Lecture 28 (Part 2) | Applied Deep Learning](https://www.youtube.com/watch?v=nBqdUAYxLjs&ab_channel=MaziarRaissi)
+
+10. [Understand your Algorithm with Grad-CAM](https://towardsdatascience.com/understand-your-algorithm-with-grad-cam-d3b62fce353)
+
+11. [PyTorch Hooks](https://medium.com/analytics-vidhya/pytorch-hooks-5909c7636fb)
