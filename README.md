@@ -14,6 +14,8 @@ Collection of all Guided Projects I have taken on Coursera.
 
 5. Deep Learning with PyTorch : GradCAM ([certificate](https://www.coursera.org/account/accomplishments/verify/B86PLVZ9YF54?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project) | [src_code]() )
 
+6. Deep Learning with PyTorch: Generative Adversarial Network ([certificate](https://www.coursera.org/account/accomplishments/verify/YS5C9PPFXU2H?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)| src_code )
+
 ### Useful links
 
 1. [Understanding EfficientNet — The most powerful CNN architecture](https://medium.com/mlearning-ai/understanding-efficientnet-the-most-powerful-cnn-architecture-eaeb40386fad)
