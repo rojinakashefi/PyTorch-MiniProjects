@@ -16,6 +16,8 @@ Collection of all Guided Projects I have taken on Coursera.
 
 6. Deep Learning with PyTorch: Generative Adversarial Network ([certificate](https://www.coursera.org/account/accomplishments/verify/YS5C9PPFXU2H?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)| src_code )
 
+7. Aerial Image Segmentation with PyTorch ([cerificiate](https://coursera.org/share/6b454734cc4b0d1d4aef536ad439cc0c) | src_code)
+
 ### Useful links
 
 1. [Understanding EfficientNet — The most powerful CNN architecture](https://medium.com/mlearning-ai/understanding-efficientnet-the-most-powerful-cnn-architecture-eaeb40386fad)
