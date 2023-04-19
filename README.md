@@ -1,6 +1,6 @@
-# Guided Projects
+# PyTorch MiniProjects
 
-Collection of all Guided Projects I have taken on Coursera.
+A Collection of all mini projects i have taken to learn PyTorch.
 
 ### Projects
 
