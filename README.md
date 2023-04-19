@@ -4,21 +4,21 @@ Collection of all Guided Projects I have taken on Coursera.
 
 ### Projects
 
-1. Deep Learning with PyTorch: Object Localization ([certificate](https://www.coursera.org/account/accomplishments/verify/DWQYRPVQC59T?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project) | [src_code]())
+1. Deep Learning with PyTorch: Object Localization ([certificate](https://www.coursera.org/account/accomplishments/verify/DWQYRPVQC59T?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project) | [src_code](https://github.com/rojinakashefi/GuidedProject/blob/main/Deep_Learning_with_PyTorch_Object_Localization.ipynb))
 
-2. Deep Learning with PyTorch: Image Segmentation ([certificate](https://coursera.org/share/728be630ed33576adb267f5c9456a4bc) | [src_code]())
+2. Deep Learning with PyTorch: Image Segmentation ([certificate](https://coursera.org/share/728be630ed33576adb267f5c9456a4bc) | [src_code](https://github.com/rojinakashefi/GuidedProject/blob/main/Deep_Learning_with_PyTorch_Image_Segmentation.ipynb))
 
-3. Deep Learning with PyTorch : Neural Style Transfer ([certificate](https://coursera.org/share/73c54bf61b4f4b530cf0a9e4a3247c0d) | [src_code]())
+3. Deep Learning with PyTorch : Neural Style Transfer ([certificate](https://coursera.org/share/73c54bf61b4f4b530cf0a9e4a3247c0d) | [src_code](https://github.com/rojinakashefi/GuidedProject/blob/main/Deep_Learning_with_PyTorch_Neural_Style_Transfer_ipynb.ipynb))
 
-4. Deep Learning with PyTorch : Siamese Network ([certificate](https://coursera.org/share/c4c06b8e89ceb51c17dc8087b7f9bd73) | [src_code]() )
+4. Deep Learning with PyTorch : Siamese Network ([certificate](https://coursera.org/share/c4c06b8e89ceb51c17dc8087b7f9bd73) | [src_code](https://github.com/rojinakashefi/GuidedProject/blob/main/Deep_Learning_with_PyTorch_Siamese_Network.ipynb) )
 
-5. Deep Learning with PyTorch : GradCAM ([certificate](https://www.coursera.org/account/accomplishments/verify/B86PLVZ9YF54?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project) | [src_code]() )
+5. Deep Learning with PyTorch : GradCAM ([certificate](https://www.coursera.org/account/accomplishments/verify/B86PLVZ9YF54?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project) | [src_code](https://github.com/rojinakashefi/GuidedProject/blob/main/Deep_Learning_with_PyTorch_GradCAM.ipynb) )
 
-6. Deep Learning with PyTorch: Generative Adversarial Network ([certificate](https://www.coursera.org/account/accomplishments/verify/YS5C9PPFXU2H?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)| src_code )
+6. Deep Learning with PyTorch: Generative Adversarial Network ([certificate](https://www.coursera.org/account/accomplishments/verify/YS5C9PPFXU2H?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)| [src_code](https://github.com/rojinakashefi/GuidedProject/blob/main/Build_a_Generative_Adversarial_Network_.ipynb) )
 
-7. Aerial Image Segmentation with PyTorch ([certificate](https://coursera.org/share/6b454734cc4b0d1d4aef536ad439cc0c) | src_code)
+7. Aerial Image Segmentation with PyTorch ([certificate](https://coursera.org/share/6b454734cc4b0d1d4aef536ad439cc0c) | [src_code](https://github.com/rojinakashefi/GuidedProject/blob/main/Aerial_Image_Segmentation_with_PyTorch.ipynb))
 
-8. Facial Expression Recognition with PyTorch ([certificate](https://coursera.org/share/8aea4afe3798c1916460d0191dfc99ec) | src_code)
+8. Facial Expression Recognition with PyTorch ([certificate](https://coursera.org/share/8aea4afe3798c1916460d0191dfc99ec) |[src_code](https://github.com/rojinakashefi/GuidedProject/blob/main/Facial_Expression_Recognition_with_PyTorch.ipynb))
 
 ### Useful links
 
