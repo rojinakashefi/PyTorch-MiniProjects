@@ -18,7 +18,7 @@ Collection of all Guided Projects I have taken on Coursera.
 
 7. Aerial Image Segmentation with PyTorch ([certificate](https://coursera.org/share/6b454734cc4b0d1d4aef536ad439cc0c) | [src_code](https://github.com/rojinakashefi/GuidedProject/blob/main/Aerial_Image_Segmentation_with_PyTorch.ipynb))
 
-8. Facial Expression Recognition with PyTorch ([certificate](https://coursera.org/share/8aea4afe3798c1916460d0191dfc99ec) |[src_code](https://github.com/rojinakashefi/GuidedProject/blob/main/Facial_Expression_Recognition_with_PyTorch.ipynb))
+8. Facial Expression Recognition with PyTorch ([certificate](https://coursera.org/share/8aea4afe3798c1916460d0191dfc99ec) | [src_code](https://github.com/rojinakashefi/GuidedProject/blob/main/Facial_Expression_Recognition_with_PyTorch.ipynb))
 
 ### Useful links
 
